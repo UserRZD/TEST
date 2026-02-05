@@ -17,12 +17,6 @@ namespace ConsoleApp6
             //{
             //    sum += i;
             //}
-
-            //int[] mass = { 1, 3, 5, 7, 9 };
-            //int N = int.Parse(Console.ReadLine());
-            
-
-            
         }
     }
 }
